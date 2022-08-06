@@ -1,0 +1,11 @@
+.container {
+  width: 20rem;
+  height: 32rem;
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  border-radius: 10px;
+  background-color: #485461;
+  background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+}
+* {
+  color: #ffffff;
+}
